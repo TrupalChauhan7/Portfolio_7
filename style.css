@@ -1794,3 +1794,29 @@ border-radius: 50%;
     font-weight: 800;
     letter-spacing: -1px;
 }
+
+@media (max-width: 900px) {
+  .work-slider-overlay {
+    opacity: 1 !important;
+    visibility: visible !important;
+    transform: translateY(0) !important;
+    pointer-events: none;
+    /* Ensure readability */
+    background: rgba(0,0,0,0.6);
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 1.1em;
+    padding: 0.5em 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .work-slider-overlay {
+    font-size: 1em;
+    padding: 0.5em 0;
+  }
+}
