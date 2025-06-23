@@ -18,21 +18,17 @@ Portfolio_7/
 ├── README.md
 └── LICENSE
 
-# License
+📜 License
+Copyright (c) 2025 Trupal Chauhan
 
-**Copyright (c) 2025 Trupal Chauhan**
+All Rights Reserved.
 
-**All Rights Reserved.**
+Unauthorized copying, reproduction, modification, distribution, or use of any part of this project — including HTML, CSS, JavaScript, images, and written content — via any medium is strictly prohibited without the express written permission of the author.
 
-Unauthorized copying, reproduction, modification, distribution, or use of any part of this project — including HTML, CSS, JavaScript, images, and written content — via any medium is **strictly prohibited** without the express written permission of the author.
+This code is not open source. You may view the source for educational purposes only.
 
-This code is **not open source**. You may view the source for educational purposes only.
+📞 Contact
+For permission or collaboration requests, feel free to contact me:
 
----
-
-## Contact
-
-For permission or collaboration requests, please contact:
-
-**Trupal Chauhan**  
-🔗 [GitHub Profile](https://github.com/TrupalChauhan7)
+Trupal Chauhan
+🔗 GitHub Profile
