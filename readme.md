@@ -6,7 +6,7 @@ Welcome to my personal portfolio website!
 
 This portfolio showcases my projects, skills, and background as a developer. Built with modern web technologies and a clean, responsive design, it represents my digital identity.
 
-##  Repository Structure
+## Repository Structure
 
 ```bash
 Portfolio_7/
@@ -17,8 +17,10 @@ Portfolio_7/
 │   └── scripts/
 ├── README.md
 └── LICENSE
+```
 
-📜 License
+## License
+
 Copyright (c) 2025 Trupal Chauhan
 
 All Rights Reserved.
@@ -27,8 +29,9 @@ Unauthorized copying, reproduction, modification, distribution, or use of any pa
 
 This code is not open source. You may view the source for educational purposes only.
 
-📞 Contact
+## Contact
+
 For permission or collaboration requests, feel free to contact me:
 
-Trupal Chauhan
-🔗 GitHub Profile
+Trupal Chauhan  
+🔗 [GitHub Profile](https://github.com/trupalchauhan7)
